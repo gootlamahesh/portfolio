@@ -6,7 +6,7 @@ import "./App.css";
 
 const initialProjectsList = [
   {
-    id: "1",
+    id: uuidv4(),
     projectName: "Match The Image",
     webLink: "https://matchgamegms.ccbp.tech/",
     description:
